@@ -1,0 +1,11 @@
+D:\gmc\MHC_POS\ScaleAndScanner\bin\Debug\Microsoft.PointOfService.dll
+D:\gmc\MHC_POS\ScaleAndScanner\bin\Debug\PosDeviceHelperLib.dll
+D:\gmc\MHC_POS\ScaleAndScanner\bin\Debug\PosDeviceHelperLib.pdb
+D:\gmc\MHC_POS\ScaleAndScanner\obj\Debug\PosDeviceHelperLib.dll
+D:\gmc\MHC_POS\ScaleAndScanner\obj\Debug\PosDeviceHelperLib.pdb
+D:\gmc\MHC_POS\PosDeviceHelper\bin\Debug\PosDeviceHelperLib.dll
+D:\gmc\MHC_POS\PosDeviceHelper\bin\Debug\PosDeviceHelperLib.pdb
+D:\gmc\MHC_POS\PosDeviceHelper\bin\Debug\Microsoft.PointOfService.dll
+D:\gmc\MHC_POS\PosDeviceHelper\obj\Debug\PosDeviceHelper.csprojResolveAssemblyReference.cache
+D:\gmc\MHC_POS\PosDeviceHelper\obj\Debug\PosDeviceHelperLib.dll
+D:\gmc\MHC_POS\PosDeviceHelper\obj\Debug\PosDeviceHelperLib.pdb

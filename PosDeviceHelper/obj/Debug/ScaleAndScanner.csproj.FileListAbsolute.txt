@@ -1,0 +1,6 @@
+D:\gmc\MHC_POS\ScaleAndScanner\bin\Debug\ScaleAndScanner.dll
+D:\gmc\MHC_POS\ScaleAndScanner\bin\Debug\ScaleAndScanner.pdb
+D:\gmc\MHC_POS\ScaleAndScanner\bin\Debug\Microsoft.PointOfService.dll
+D:\gmc\MHC_POS\ScaleAndScanner\obj\Debug\ScaleAndScanner.csprojResolveAssemblyReference.cache
+D:\gmc\MHC_POS\ScaleAndScanner\obj\Debug\ScaleAndScanner.dll
+D:\gmc\MHC_POS\ScaleAndScanner\obj\Debug\ScaleAndScanner.pdb
